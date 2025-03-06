@@ -66,8 +66,8 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
-        📫 Contattami
-
+        
+📫 Contattami
 📧 Email: wcritti@gmail.com
 💼 LinkedIn: William Marrion Critti
 🌐 GitHub: @WilliamCritti
