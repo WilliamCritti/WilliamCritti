@@ -1,5 +1,5 @@
 <div align="center">
-# William Critti
+ William Critti
 <p>
   <a href="mailto:wcritti@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -49,6 +49,7 @@ Database
   </div>
 </div>
 💼 Key Skills
+''' Python
 class WilliamCritti:
     def __init__(self):
         self.role = "Full Stack Developer"
@@ -66,7 +67,8 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
-        
+  '''
+  
 📫 Contattami
 📧 Email: wcritti@gmail.com
 💼 LinkedIn: William Marrion Critti
