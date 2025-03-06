@@ -75,11 +75,13 @@ class WilliamCritti:
 Se vuoi collaborare o semplicemente connetterti, sentiti libero di contattarmi!
 
 ---
-**Powered by Luigi Piscopo**
+**Powered by William Critti**
 
 📫 Contattami
 📧 Email: wcritti@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/william-marrion-critti-fullstack-developer/?trk=opento_sprofile_details
+
 🌐 GitHub: https://github.com/WilliamCritti
 
 🌟 Progetti in Evidenza
