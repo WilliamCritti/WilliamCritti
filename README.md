@@ -51,8 +51,7 @@ Database
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCritti&layout=compact&theme=radical&bg_color=30,511845,900C3F,C70039,FF5733&title_color=FFC300&text_color=FFFFFF" alt="Top Languages" width="100%" max-width="400px" />
   </div>
 </div>
-💎 Competenze Chiave
-javascriptCopyconst WilliamCritti = {
+const WilliamCritti = {
   role: "Full Stack Developer",
   passions: ["Coding", "AI", "Problem Solving", "Innovation"],
   skills: {
