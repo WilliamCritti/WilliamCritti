@@ -49,7 +49,7 @@ Database
   </div>
 </div>
 💼 Key Skills
-```python
+
 class WilliamCritti:
     def __init__(self):
         self.role = "Full Stack Developer"
