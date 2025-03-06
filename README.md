@@ -1,11 +1,10 @@
 <div align="center">
-William Critti
-Show Image
+# William Critti
 <p>
   <a href="mailto:wcritti@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/william-marrion-critti-fullstack-developer/?trk=opento_sprofile_details">
+  <a href="https://www.linkedin.com/in/william-marrion-critti-fullstack-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-900C3F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/WilliamCritti">
@@ -14,9 +13,7 @@ Show Image
 </p>
 </div>
 🚀 Chi Sono
-
 Developer. Innovatore. Problem Solver. Trasformo idee in soluzioni digitali eleganti ed efficienti, con un approccio analitico e una costante ricerca dell'eccellenza tecnica.
-
 
 🎓 Specializzazione in Coding AI presso Aulab Srl
 🌱 In continua crescita professionale, sempre alla ricerca di nuove sfide
@@ -51,9 +48,7 @@ Database
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCritti&layout=compact&theme=radical&bg_color=30,511845,900C3F,C70039,FF5733&title_color=FFC300&text_color=FFFFFF" alt="Top Languages" width="100%" max-width="400px" />
   </div>
 </div>
-## 💼 Key Skills
-
-```python
+💼 Key Skills
 class WilliamCritti:
     def __init__(self):
         self.role = "Full Stack Developer"
@@ -71,17 +66,14 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
-📫 Contattami
+        📫 Contattami
 
 📧 Email: wcritti@gmail.com
 💼 LinkedIn: William Marrion Critti
 🌐 GitHub: @WilliamCritti
 
 🌟 Progetti in Evidenza
-
 In arrivo... Sto lavorando a qualcosa di speciale!
-
-
 <div align="center">
   <a href="https://github.com/WilliamCritti">
     <img src="https://komarev.com/ghpvc/?username=WilliamCritti&style=for-the-badge&color=FF5733" alt="Profile Views" height="30" />
