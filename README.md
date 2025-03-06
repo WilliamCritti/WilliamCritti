@@ -51,23 +51,26 @@ Database
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCritti&layout=compact&theme=radical&bg_color=30,511845,900C3F,C70039,FF5733&title_color=FFC300&text_color=FFFFFF" alt="Top Languages" width="100%" max-width="400px" />
   </div>
 </div>
-const WilliamCritti = {
-  role: "Full Stack Developer",
-  passions: ["Coding", "AI", "Problem Solving", "Innovation"],
-  skills: {
-    frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    backend: ["PHP", "Python", "C#", "Laravel"],
-    database: ["MySQL", "Database Design"],
-    softSkills: [
-      "Pensiero Analitico",
-      "Collaborazione di Team",
-      "Apprendimento Rapido",
-      "Creatività"
-    ]
-  },
-  currentFocus: "Specializzazione nello Sviluppo AI",
-  motto: "Il codice è arte che risolve problemi"
-};
+## 💼 Key Skills
+
+```python
+class WilliamCritti:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.skills = {
+            "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "backend": ["PHP", "Python", "C#", "Laravel"],
+            "database": ["MySQL", "Database Design"],
+            "soft_skills": [
+                "Problem Solving",
+                "Team Collaboration",
+                "Quick Learning",
+                "Creative Thinking"
+            ]
+        }
+    
+    def current_focus(self):
+        return "Specialization in AI Development"
 📫 Contattami
 
 📧 Email: wcritti@gmail.com
