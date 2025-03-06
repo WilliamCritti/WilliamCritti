@@ -67,7 +67,7 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
- ```
+```
   
 📫 Contattami
 📧 Email: wcritti@gmail.com
