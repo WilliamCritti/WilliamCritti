@@ -49,7 +49,7 @@ Database
   </div>
 </div>
 💼 Key Skills
-``` Python
+''' Python
 class WilliamCritti:
     def __init__(self):
         self.role = "Full Stack Developer"
@@ -67,7 +67,7 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
-```
+'''
   
 📫 Contattami
 📧 Email: wcritti@gmail.com
