@@ -48,15 +48,11 @@ Database
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCritti&layout=compact&theme=radical&bg_color=30,511845,900C3F,C70039,FF5733&title_color=FFC300&text_color=FFFFFF" alt="Top Languages" width="100%" max-width="400px" />
   </div>
 </div>
-💼 Key Skills
-# Luigi Piscopo - Full Stack Developer
-
-Benvenuto nel mio profilo GitHub! Sono un **Full Stack Developer** con esperienza in diversi linguaggi e tecnologie.
 
 ## 💼 Key Skills
 
 ```python
-class LuigiPiscopo:
+class WilliamCritti:
     def __init__(self):
         self.role = "Full Stack Developer"
         self.skills = {
@@ -83,8 +79,8 @@ Se vuoi collaborare o semplicemente connetterti, sentiti libero di contattarmi!
 
 📫 Contattami
 📧 Email: wcritti@gmail.com
-💼 LinkedIn: William Marrion Critti
-🌐 GitHub: @WilliamCritti
+💼 LinkedIn: https://www.linkedin.com/in/william-marrion-critti-fullstack-developer/?trk=opento_sprofile_details
+🌐 GitHub: https://github.com/WilliamCritti
 
 🌟 Progetti in Evidenza
 In arrivo... Sto lavorando a qualcosa di speciale!
