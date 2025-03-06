@@ -49,8 +49,14 @@ Database
   </div>
 </div>
 💼 Key Skills
+# Luigi Piscopo - Full Stack Developer
 
-class WilliamCritti:
+Benvenuto nel mio profilo GitHub! Sono un **Full Stack Developer** con esperienza in diversi linguaggi e tecnologie.
+
+## 💼 Key Skills
+
+```python
+class LuigiPiscopo:
     def __init__(self):
         self.role = "Full Stack Developer"
         self.skills = {
@@ -67,6 +73,14 @@ class WilliamCritti:
     
     def current_focus(self):
         return "Specialization in AI Development"
+```
+
+## 📫 Contact Me
+Se vuoi collaborare o semplicemente connetterti, sentiti libero di contattarmi!
+
+---
+**Powered by Luigi Piscopo**
+
 📫 Contattami
 📧 Email: wcritti@gmail.com
 💼 LinkedIn: William Marrion Critti
