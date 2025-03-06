@@ -72,8 +72,8 @@ javascriptCopyconst WilliamCritti = {
 📫 Contattami
 
 📧 Email: wcritti@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/william-marrion-critti-fullstack-developer/?trk=opento_sprofile_details
-🌐 GitHub: https://github.com/WilliamCritti
+💼 LinkedIn: William Marrion Critti
+🌐 GitHub: @WilliamCritti
 
 🌟 Progetti in Evidenza
 
